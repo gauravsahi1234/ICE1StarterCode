@@ -15,7 +15,7 @@ public class CardTrick {
     public static void main(String[] args) {
         
         Card[] hand = new Card[7];
-
+        
         for (int i = 0; i < hand.length; i++) {
             Card card = new Card();
             //card.setValue(insert call to random number generator here)
