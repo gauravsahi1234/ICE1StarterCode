@@ -38,7 +38,7 @@ public class CardTrick {
             System.out.println("Not matched");
         }
     }
-    
+    // I am done
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
